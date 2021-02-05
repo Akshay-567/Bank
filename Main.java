@@ -146,7 +146,9 @@ class BankApp
 		
 	}
 }
-/* admin login
+/* OUTPUT
+
+admin login
    logout
  
 AccountHolder = Bob
