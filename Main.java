@@ -146,6 +146,38 @@ class BankApp
 		
 	}
 }
+/* admin login
+   logout
+ 
+AccountHolder = Bob
+Accountnumber = 81234234212
+Account Type  = Savings
+Branch = Jakkur
+BankName xyz
+Amount Deposited = 100.0
+Available Balance = 1000.0
+you cannot withdraw more then your balance
+Available Balance = 1000.0
+ 
+AccountHolder = Alice
+Accountnumber = 81234234213
+Account Type  = Savings
+Branch = Electronic city
+BankName xyz
+Amount Deposited = 200.0
+Available Balance = 1100.0
+Amount withdrawen = 100.0
+Available Balance = 1000.0
+ 
+AccountHolder = Joe
+Accountnumber = 81234234214
+Account Type  = Savings
+Branch = Anekal
+BankName xyz
+Amount Deposited = 1100.0
+Available Balance = 2000.0
+Amount withdrawen = 100.0
+Available Balance = 1900.0 */
 
 
 
